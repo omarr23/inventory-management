@@ -1,0 +1,8 @@
+# Ignore debug files
+*.debug
+*.log
+debug/
+logs/
+
+# Ignore specific debug files
+path/to/specific/debug/file.debug
